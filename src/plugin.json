@@ -1,0 +1,10 @@
+{
+  "publisher": "github.DevinSanders",
+  "id": "sampler.equalizer",
+  "name": "Equalizer",
+  "version": "1.0.0",
+  "author": "Devin Sanders",
+  "description": "Parametric EQ — 3-band or 7-band layout.",
+  "entryDll": "EqualizerPlugin.dll",
+  "isTheme": false
+}
